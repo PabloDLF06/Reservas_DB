@@ -176,10 +176,6 @@ Las contribuciones son bienvenidas. Si desea mejorar este proyecto, puede:
 2. Crear una rama para su nueva funcionalidad
 3. Enviar un pull request con sus cambios
 
-## Licencia
-
-Este proyecto está disponible como código abierto bajo la licencia MIT.
-
 ## Contacto
 
 Para consultas o sugerencias, puede contactar al autor a través de GitHub: [PabloDLF06](https://github.com/PabloDLF06)
